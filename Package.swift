@@ -14,7 +14,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        // No external dependencies for umbrella framework itself
+        
     ],
     targets: [
         .target(
