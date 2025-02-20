@@ -57,11 +57,11 @@
 		</data>
 		<key>Modules/DKPhotoGallery.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		fkL48jfo8WiPx30AzH2vxI7uarg=
+		T7Fah7y7wgBoeFQMDv00YjjsAUk=
 		</data>
 		<key>Modules/DKPhotoGallery.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		P5G3h7x9tEEiVafCWL45P3andNY=
+		PR0z1z7Jt1ufvWSTJaswB7EeCGQ=
 		</data>
 		<key>Modules/DKPhotoGallery.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -81,7 +81,7 @@
 		</data>
 		<key>Modules/DKPhotoGallery.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		i3F8928kaWl1M56b2m7LgX6QXyY=
+		J+iHFxLvVyb7sqK4f98WTjPNibo=
 		</data>
 		<key>Modules/DKPhotoGallery.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -101,7 +101,7 @@
 		</data>
 		<key>Modules/DKPhotoGallery.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Y/OzcMXzb5eCazDPEhW17JFuLHs=
+		gPedFMDRkkjkFKa9BBrQgyPWzS0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -208,22 +208,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fkL48jfo8WiPx30AzH2vxI7uarg=
+			T7Fah7y7wgBoeFQMDv00YjjsAUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wszC1fRJuU727CU1tVd1ZfY0Fl4qqYwD+XyI3f0jQ58=
+			4wnH+8/WuT8hPVO6Y6V5Hv2MXrnjUB21nSXhjspgTpQ=
 			</data>
 		</dict>
 		<key>Modules/DKPhotoGallery.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P5G3h7x9tEEiVafCWL45P3andNY=
+			PR0z1z7Jt1ufvWSTJaswB7EeCGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			iBIVBv2PPGMSVMwHb+fz6+d4H7Hfzv2wXA+/PunHeEo=
+			1gbd+puV8NzijLdvrcIsbtFbx9WlKmy0GwgNSXmqpzE=
 			</data>
 		</dict>
 		<key>Modules/DKPhotoGallery.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -274,11 +274,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i3F8928kaWl1M56b2m7LgX6QXyY=
+			J+iHFxLvVyb7sqK4f98WTjPNibo=
 			</data>
 			<key>hash2</key>
 			<data>
-			rx5cqWuNmp8vuwNKed5HXcSL+bpwH+5m1S0LqnKTgwI=
+			sxr3CWSqhw8oYJ/QT0U6ulNBu2PwsmKlfVOUkajXFjs=
 			</data>
 		</dict>
 		<key>Modules/DKPhotoGallery.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -329,11 +329,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y/OzcMXzb5eCazDPEhW17JFuLHs=
+			gPedFMDRkkjkFKa9BBrQgyPWzS0=
 			</data>
 			<key>hash2</key>
 			<data>
-			HaTD0pMvA5ox0T1uRFUVWSFgOBoZF5tKah/wCi2NnAo=
+			nR81uxRr6jWu3/rt0ti4XKNBsTZ04mkQjQqS3FO7iD8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
